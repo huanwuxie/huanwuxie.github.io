@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://huanwuxie.github.io/2020/11/19/hello-world/</loc>
+    <loc>https://huanwuxie.github.io/blog/2020/11/19/hello-world/</loc>
     
     <lastmod>2020-11-19</lastmod>
     
@@ -10,8 +10,8 @@
   
 
   <url>
-    <loc>https://huanwuxie.github.io/</loc>
-    <lastmod>2020-11-19</lastmod>
+    <loc>https://huanwuxie.github.io/blog</loc>
+    <lastmod>2020-11-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

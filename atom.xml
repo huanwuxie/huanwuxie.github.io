@@ -3,11 +3,11 @@
   <title>hwx&#39;s blog</title>
   
   
-  <link href="https://huanwuxie.github.io/atom.xml" rel="self"/>
+  <link href="https://huanwuxie.github.io/blog/atom.xml" rel="self"/>
   
-  <link href="https://huanwuxie.github.io/"/>
+  <link href="https://huanwuxie.github.io/blog/"/>
   <updated>2020-11-19T02:52:14.149Z</updated>
-  <id>https://huanwuxie.github.io/</id>
+  <id>https://huanwuxie.github.io/blog/</id>
   
   <author>
     <name>zxy</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://huanwuxie.github.io/2020/11/19/hello-world/"/>
-    <id>https://huanwuxie.github.io/2020/11/19/hello-world/</id>
+    <link href="https://huanwuxie.github.io/blog/2020/11/19/hello-world/"/>
+    <id>https://huanwuxie.github.io/blog/2020/11/19/hello-world/</id>
     <published>2020-11-19T02:52:14.149Z</published>
     <updated>2020-11-19T02:52:14.149Z</updated>
     
